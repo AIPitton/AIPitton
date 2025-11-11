@@ -1,7 +1,5 @@
 <div align="center">
     <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-      <img src="https://github.com/user-attachments/assets/123fd481-a5b9-481f-9f34-fa8e9fcea4c5" 
-          width="300" style="max-width: 100%; height: auto;" alt="Orthodox Bible App" />
       <h1 style="margin: 0; font-size: 1.8rem; text-align: center;">
         <a href="https://play.google.com/store/apps/details?id=com.orthodoxbible" 
           target="_blank" 
@@ -9,6 +7,8 @@
           Orthodox Bible App available on Google Play
         </a>
       </h1>    
+      <img src="https://github.com/user-attachments/assets/123fd481-a5b9-481f-9f34-fa8e9fcea4c5" 
+          width="300" style="max-width: 100%; height: auto;" alt="Orthodox Bible App" />
     </div>
   </div>
 
@@ -58,6 +58,8 @@
 [<img src= "assets/svg/kick.svg" height= "50" width= "50">](https://kick.com/terrakode)
 [<img src= "assets/svg/sololearn.svg" height= "50" width= "50">](https://www.sololearn.com/en/profile/16777109)
 [<img src= "assets/svg/twitch.svg" height= "50" width= "50">](https://www.twitch.tv/terrakode)
+
+## 📈 Statistics
 
 <div align="center">
     <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
