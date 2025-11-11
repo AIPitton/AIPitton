@@ -47,6 +47,7 @@
 [<img src= "assets/svg/discord.svg" height= "50" width= "50">](https://discord.gg/bh9duTN9Yz)
 [<img src= "assets/svg/youtube.svg" height= "50" width= "50">](https://www.youtube.com/@TerraKode)
 [<img src= "assets/svg/instagram.svg" height= "50" width= "50">](https://www.instagram.com/TerraKode)
+[<img src= "assets/svg/facebook.svg" height= "50" width= "50">](https://www.facebook.com/TerraKode/)
 [<img src= "assets/svg/reddit.svg" height= "50" width= "50">](https://www.reddit.com/r/terrakode/)
 [<img src= "assets/svg/gitlab.svg" height= "50" width= "50">](https://gitlab.com/terrakode)
 [<img src= "assets/svg/snapchat.svg" height= "50" width= "50">](https://www.snapchat.com/@terrakode)
@@ -56,8 +57,13 @@
 [<img src= "assets/svg/pinterest.svg" height= "50" width= "50">](https://www.pinterest.com/TerraKode/)
 [<img src= "assets/svg/kick.svg" height= "50" width= "50">](https://kick.com/terrakode)
 [<img src= "assets/svg/sololearn.svg" height= "50" width= "50">](https://www.sololearn.com/en/profile/16777109)
-[<img src= "assets/svg/facebook.svg" height= "50" width= "50">](https://www.facebook.com/TerraKode/)
 [<img src= "assets/svg/twitch.svg" height= "50" width= "50">](https://www.twitch.tv/terrakode)
+
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AIPitton&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/>
+    
 <!--
 **AIPitton/AIPitton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
