@@ -1,6 +1,6 @@
 <div align="center">
     <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-      <img src="" 
+      <img src="https://github.com/user-attachments/assets/123fd481-a5b9-481f-9f34-fa8e9fcea4c5" 
           width="300" style="max-width: 100%; height: auto;" alt="Orthodox Bible App" />
       <h1 style="margin: 0; font-size: 1.8rem; text-align: center;">
         <a href="https://play.google.com/store/apps/details?id=com.orthodoxbible" 
