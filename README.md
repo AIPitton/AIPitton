@@ -4,7 +4,7 @@
         <a href="https://play.google.com/store/apps/details?id=com.orthodoxbible" 
           target="_blank" 
           style="color: inherit; text-decoration: none;">
-          Orthodox Bible App available on Google Play
+          Orthodox Bible App on Google Play
         </a>
       </h1>    
       <img src="https://github.com/user-attachments/assets/123fd481-a5b9-481f-9f34-fa8e9fcea4c5" 
