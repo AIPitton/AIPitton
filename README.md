@@ -7,7 +7,7 @@
           Orthodox Bible App on Google Play
         </a>
       </h1>    
-      <img src="" 
+      <img src="https://github.com/user-attachments/assets/6f87c035-e2ec-4661-974e-1aad9c5f3542" 
           width="300" style="max-width: 100%; height: auto;" alt="Orthodox Bible App" />
     </div>
   </div>
